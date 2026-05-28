@@ -1,0 +1,11 @@
+# Java compiled files
+*.class
+
+# CPH Judge files
+.cph/
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
