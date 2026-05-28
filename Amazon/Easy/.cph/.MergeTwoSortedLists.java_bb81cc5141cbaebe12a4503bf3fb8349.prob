@@ -1,0 +1,1 @@
+{"name":"Local: MergeTwoSortedLists","url":"/workspaces/DsaPyqCompanyWise/Amazon/Easy/MergeTwoSortedLists.java","tests":[{"id":1779938235747,"input":"","output":"1 1 2 3 4 4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/workspaces/DsaPyqCompanyWise/Amazon/Easy/MergeTwoSortedLists.java","group":"local","local":true}
